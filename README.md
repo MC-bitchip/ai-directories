@@ -94,7 +94,8 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## N
 
-- [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory 
+- [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
+- [Nerdi] (https://nerdi.ai/) - Comprehensive AI Tool directory for learners and educators
 
 ## O
 
